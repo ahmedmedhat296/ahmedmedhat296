@@ -4,5 +4,5 @@
 Here are some ideas to get you started:
 - 🔭 I’m currently styuding computer engineering (1 years to graduate)
 - 🌱 I’m currently learning data strcuture and algorithms , Arm embedded systems
-- 👯 I’m looking to collaborate on small projects and simulations of embedded systems
+- 👯 I’m looking to collaborate on small and medium projects 
 - 📫 How to reach me: ahmed.medhat296@eng.aun.edu.eg
